@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello Git4 hot-fix");
         System.out.println("hello Git6 master");
         System.out.println("hello Git5 hot-fix");
+        System.out.println("我直接在GitHub官网上手动改的代码");
     }
 }
